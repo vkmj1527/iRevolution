@@ -1,52 +1,33 @@
-# 📱 iRevolution - A Data-Driven Exploration of Apple's iPhone Impact in India
+# 📊 iRevolution: A Data-Driven Exploration of Apple's iPhone Impact in India
 
-Welcome to **iRevolution**, a data analytics project that explores the rise and impact of Apple's iPhones in the Indian market. This project uses Excel datasets and Tableau visualizations to uncover insights on market trends, pricing strategies, consumer preferences, and regional adoption patterns of iPhones in India.
+This Tableau dashboard project analyzes the performance, growth, and market impact of Apple's iPhones in India using data visualizations such as bar charts, line graphs, pie charts, maps, and KPIs.
 
-## 📌 Project Objective
+## 📌 Project Highlights
+- 📈 Sales & Revenue Trends (2015–2024)
+- 📊 Battery Type and Brand Price Distribution
+- 📍 Global Market Share by Country
+- 🧩 Model-wise Share, Brand Comparison
+- 🔄 Quarterly & Annual KPI Metrics
+- 🌍 Interactive Maps, Treemaps, Bubble Charts
 
-To analyze and visualize how Apple's iPhone has influenced the Indian smartphone market — using real-world datasets to understand growth trends, pricing evolution, and the brand's socio-economic reach.
+## 📁 Files Included
+- `📊 iRevolution_ A Data-Driven Exploration of Apple's iPhone Impact in India.twbx` – Main Tableau packaged workbook
+- `iPhone_Visualization_Expanded_Dataset.xlsx` – Raw dataset used
+- `README.md` – Project overview and documentation
 
----
+## 🚀 How to Open
+1. Download Tableau Public (free): https://public.tableau.com/en-us/s/download
+2. Open the `.twbx` file in Tableau Desktop or Tableau Public
+3. Explore all the dashboards and story scenes
 
-## 🧩 Tools Used
-- **Microsoft Excel** — Data cleaning, preprocessing, and structuring
-- **Tableau Public** — Data visualization and interactive dashboards
-- **GitHub** — Project versioning and sharing
+## 🌐 Published Dashboard
+[View Dashboard on Tableau Public](https://public.tableau.com/views/iRevolutionAData-DrivenExplorationofApplesiPhoneImpactinIndia/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
+## 👨‍💻 Author
+**Manthan Jadhav**  
+D Y Patil University School of Engineering, Ambi, Pune
 
-## 📁 Files in this Repository
-
-| File Name                    | Description                                 |
-|-----------------------------|---------------------------------------------|
-| `APPLE_iPhone_SE(1).csv`    | Dataset covering iPhone SE model details    |
-| `apple_products.csv`        | Dataset with pricing and rating info        |
-| `Project_Summary.txt`       | Summary of project findings and steps       |
-| `README.md`                 | This file                                   |
-
----
-
-## 📊 Tableau Dashboard
-
-👉 View the interactive dashboard here:  
-[🔗 Click to view Tableau Dashboard](https://public.tableau.com/views/project_17534344861670/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-The dashboard includes:
-- Sales trends over time
-- Model-wise popularity
-- Region-based insights
-- Pricing vs. rating comparison
-
----
-
-## ✅ Key Insights
-
-- iPhone pricing trends in India show a steady increase with premium upgrades.
-- The iPhone SE model has seen stable popularity due to affordable pricing.
-- Consumers often prioritize brand trust over price.
-- Urban cities show significantly higher iPhone adoption.
-
----
-
-
-⭐ If you found this project interesting, give it a ⭐️ and share it!
+## 📬 Contact
+For queries or suggestions, feel free to connect via  
+[LinkedIn](https://www.linkedin.com/in/manthan-jadhav-ba5501329/)  
+or open an issue on this GitHub repository.
