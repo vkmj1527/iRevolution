@@ -39,12 +39,6 @@ The dashboard includes:
 
 ---
 
-## 🎤 Presenter
-
-This project is presented by **Shravani**, on behalf of the entire project team.
-
----
-
 ## ✅ Key Insights
 
 - iPhone pricing trends in India show a steady increase with premium upgrades.
@@ -54,10 +48,5 @@ This project is presented by **Shravani**, on behalf of the entire project team.
 
 ---
 
-## 📬 Contact
-
-For any questions or collaboration ideas, feel free to reach out via GitHub or LinkedIn!
-
----
 
 ⭐ If you found this project interesting, give it a ⭐️ and share it!
