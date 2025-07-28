@@ -24,7 +24,8 @@ This Tableau dashboard project analyzes the performance, growth, and market impa
 [View Dashboard on Tableau Public](https://public.tableau.com/views/iRevolutionAData-DrivenExplorationofApplesiPhoneImpactinIndia/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 👨‍💻 Author
-**Manthan Jadhav**  
+**Manthan Jadhav**
+**Shravani Waikar**
 D Y Patil University School of Engineering, Ambi, Pune
 
 ## 📬 Contact
